@@ -36,10 +36,11 @@
 
 ---
 
-## 🏆 Trophy
+
 
 <p align="left">
- <img src="https://github-profile-trophy.vercel.app/?username=yernurqanash-creator&theme=onedark&no-frame=true&row=1" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-blue" />
+<img src="https://img.shields.io/badge/Stack-Java%20%7C%20Spring%20%7C%20PostgreSQL-green" />
 </p>
 
 ---
@@ -57,5 +58,3 @@
 ## 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/yernurqanash-creator/yernurqanash-creator/output/github-contribution-grid-snake.svg)
-
-
