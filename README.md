@@ -1,7 +1,4 @@
-<!-- =======================
-     PROFILE README (COPY/PASTE)
-     Username: yernurqanash-creator
-======================= -->
+
 
 <h1 align="left">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
@@ -25,9 +22,9 @@
 - 🚀 Backend-focused Software Engineering Student
 - ☁️ Interested in Cloud & Scalable Systems
 - 🧠 Improving Data Structures & System Design
-- 📂 Projects: https://github.com/yernurqanash-creator
-- 💬 Telegram: https://t.me/yernurmyn
-- 📄 Resume: https://almaty.hh.kz/resume/39708273ff0fa0fa510039ed1f513570584364
+- 📂 Most of my projects are available on [GitHub](https://github.com/yernurqanash-creator)  
+- 💬 Ask me about anything tech related, I am happy to talk. [Telegram](https://t.me/yernurmyn)  
+- 📄 Checkout my [Resume](https://almaty.hh.kz/resume/39708273ff0fa0fa510039ed1f513570584364)
 
 ---
 
@@ -49,10 +46,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yernurqanash-creator&show_icons=true&theme=dark&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yernurqanash-creator&layout=compact&theme=dark&hide_border=true" alt="top langs" />
-</p>
+
 
 <p align="left">
   <img height="170" src="https://streak-stats.demolab.com?user=yernurqanash-creator&theme=dark&hide_border=true" alt="streak" />
@@ -64,9 +58,4 @@
 
 ![snake](https://raw.githubusercontent.com/yernurqanash-creator/yernurqanash-creator/output/github-contribution-grid-snake.svg)
 
----
 
-## 🔗 Links
-
-- Telegram: https://t.me/yernurymn
-- GitHub: https://github.com/yernurqanash-creator
