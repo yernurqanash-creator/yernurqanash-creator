@@ -39,7 +39,7 @@
 ## 🏆 Trophy
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yernurqanash-creator&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="trophy" />
+ <img src="https://github-profile-trophy.vercel.app/?username=yernurqanash-creator&theme=onedark&no-frame=true&row=1" />
 </p>
 
 ---
