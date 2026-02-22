@@ -1,19 +1,10 @@
-# 👋 Hello, I'm Ernur Kanash
+# 👋 Hello, I'm Yernur Kanash
 
-💻 Software Engineering Student  
-🚀 Future Backend Engineer  
-📍 Kazakhstan  
 
----
 
-## 🧠 About Me
-- 🎓 IT Student focused on Backend Development
-- 🔭 Currently learning: Java, Spring Boot, REST APIs
-- 🌱 Improving problem-solving & system design skills
-- ⚡ Goal: Become strong Software Engineer & work in global tech company
-- 
 ## 👨‍💻 About Me
 
+- 🏢 System administrator Intern at Bi Group
 - 🚀 Full stack-focused Software Engineering Student  
 - ☁️ Interested in Cloud & Scalable Systems  
 - 📚 Currently improving Data Structures & System Design  
