@@ -23,8 +23,6 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yernurqanash-creator&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api?username=yernurqanash-creator&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yernurqanash-creator&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yernurqanash-creator&layout=compact&theme=dark&hide_border=true" />
 </p>
-
-
