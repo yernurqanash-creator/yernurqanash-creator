@@ -6,7 +6,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=58A6FF&width=720&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;REST+APIs+%7C+PostgreSQL+%7C+Git+%7C+Linux;Cloud+%26+Scalable+Systems;Open+to+Internship+%2F+Junior+Backend+Roles" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=58A6FF&width=720&lines=Backend+Developer+%7C+Spring+Boot;REST+APIs+%7C+PostgreSQL+%7C+Git+%7C+Linux;Cloud+%26+Scalable+Systems;Open+to+Internship+%2F+Junior+Backend+Roles" alt="typing" />
 </p>
 
 <p align="left">
